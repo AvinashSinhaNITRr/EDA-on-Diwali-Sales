@@ -1,1 +1,1 @@
-# EDA-on-Diwali-Sales
+# EDA-on-Indian-Festival-Sales
